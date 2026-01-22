@@ -1,0 +1,11 @@
+pandas (Data manipulation, CSV reading/writing)
+
+numpy (Numerical operations)
+
+scikit-learn (Linear Regression, train_test_split, metrics)
+
+matplotlib (Plotting)
+
+seaborn (Enhanced plotting)
+
+jupyter (run .ipynb file)

@@ -1,0 +1,7 @@
+# Ignore Python cache and Jupyter checkpoints
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Ignore OS files
+.DS_Store
